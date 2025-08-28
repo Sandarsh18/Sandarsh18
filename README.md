@@ -50,14 +50,16 @@ Huge cricket fan 🏏 · I love building tools that help students learn 👨‍�
 ---
 
 
-## 🐍 Snake Contribution Animation (Auto‑generated)
-<p>
-<!-- Light mode -->
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sandarsh18/Sandarsh18/output/snake-dark.svg" />
-<img alt="snake animation" src="https://raw.githubusercontent.com/Sandarsh18/Sandarsh18/output/snake.svg" />
-</picture>
+## 🐍 Snake Contribution Animation (Auto-generated)
+<p align="center">
+  <!-- Dark mode -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sandarsh18/Sandarsh18/output/snake-dark.svg" />
+    <!-- Light mode -->
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Sandarsh18/Sandarsh18/output/snake.svg" />
+  </picture>
 </p>
+
 
 
 ---
