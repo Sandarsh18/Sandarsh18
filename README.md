@@ -1,6 +1,9 @@
 <h1 align="center">👋 Hi, I'm Sandarsh J N</h1>
 ## ⚡ Fun fact
 Huge cricket fan 🏏 · I love building tools that help students learn 👨‍🎓
+![Profile Views](https://komarev.com/ghpvc/?username=Sandarsh18&color=brightgreen)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=F75C7E&center=true&vCenter=true&lines=Hi+I'm+Sandarsh+J+N;Flutter+Developer;AI+Enthusiast;Cloud+Explorer)](https://git.io/typing-svg)
 
 
 ## 💡 Motto
