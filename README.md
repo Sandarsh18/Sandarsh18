@@ -1,20 +1,27 @@
 <h1 align="center">👋 Hi, I'm Sandarsh J N</h1>
-## ⚡ Fun fact
-Huge cricket fan 🏏 · I love building tools that help students learn 👨‍🎓
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sandarsh18&color=brightgreen)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=F75C7E&center=true&vCenter=true&lines=Hi+I'm+Sandarsh+J+N;Flutter+Developer;AI+Enthusiast;Cloud+Explorer)](https://git.io/typing-svg)
-
-
-## 💡 Motto
-> *"Building today, bettering tomorrow."*
-
+<p align="center">
+  <a href="mailto:sandarshjn18@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sandarshjn18%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/sandarsh-jn">
+    <img src="https://img.shields.io/badge/LinkedIn-Sandarsh%20J%20N-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
 ---
 
+### ⚡ Fun Fact
+Huge cricket fan 🏏 · I love building tools that help students learn 👨‍🎓
 
-## 💻 Tech Stack
+---
+
+### 💡 Motto
+> *"Building today, bettering tomorrow."*
+
+---
+
+### 🛠 Tech Stack
 <p>
 <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -28,58 +35,62 @@ Huge cricket fan 🏏 · I love building tools that help students learn 👨‍�
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-
 ---
 
-
-## 📊 Dynamic GitHub Stats
-<p>
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sandarsh18&show_icons=true&theme=radical&hide_border=true"/>
-  
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandarsh18&theme=radical&hide_border=true"/>
-</p>
-<p>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandarsh18&theme=radical&hide_border=true&layout=compact"/>
-</p>
-
-
----
-
-
-## 📈 Beautiful Contribution Graph (Auto‑updates)
-<p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandarsh18&theme=github-compact&area=true&hide_border=true"/>
-</p>
-
-
----
-
-
-## 🐍 Snake Contribution Animation (Auto-generated)
+### 📊 GitHub Stats & Activity
 <p align="center">
-  <!-- Dark mode -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sandarsh18&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandarsh18&theme=radical&hide_border=true"/>
+</p>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandarsh18&theme=radical&hide_border=true&layout=compact"/>
+</p>
+
+---
+
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandarsh18&theme=github-compact&area=true&hide_border=true"/>
+</p>
+
+---
+
+### 🐍 Snake Contribution Animation
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sandarsh18/Sandarsh18/output/snake-dark.svg" />
-    <!-- Light mode -->
     <img alt="github contribution snake" src="https://raw.githubusercontent.com/Sandarsh18/Sandarsh18/output/snake.svg" />
   </picture>
 </p>
 
-
-
 ---
 
-
-## 🏆 Trophies & Quote
-<p>
-<img src="https://github-profile-trophy.vercel.app/?username=Sandarsh18&theme=radical&no-frame=true&margin-w=8"/>
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sandarsh18&theme=radical&no-frame=true&margin-w=8"/>
 </p>
 
+---
 
-> *"Code is like humor. When you have to explain it, it’s bad."*
-
+### 🎯 Current Focus
+- Building **Flutter apps** with animations & localization  
+- Exploring **LLMs & AI-powered tools**  
+- Experimenting with **Supabase & Cloud Architectures**  
 
 ---
 
+### ✨ Fun Extras
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sandarsh18&color=brightgreen" alt="Profile views"/>
+</p>
+<p align="center">
+  <a href="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=F75C7E&center=true&vCenter=true&lines=Hi+I'm+Sandarsh+J+N;Flutter+Developer;AI+Enthusiast;Cloud+Explorer">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=F75C7E&center=true&vCenter=true&lines=Hi+I'm+Sandarsh+J+N;Flutter+Developer;AI+Enthusiast;Cloud+Explorer" />
+  </a>
+</p>
+
+---
+
+> *"Code is like humor. When you have to explain it, it’s bad."*
 
 <p align="center">Made with ❤️ & automation</p>
