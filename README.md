@@ -58,10 +58,6 @@ Huge cricket fan 🏏 · I love building tools that help students learn 👨‍�
 </p>
 
 
-<p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandarsh18&theme=radical&hide_border=true"/>
-</p>
-
 ---
 
 ### 📈 Contribution Graph
@@ -83,8 +79,7 @@ Huge cricket fan 🏏 · I love building tools that help students learn 👨‍�
 
 ### 🏆 GitHub Trophies
 
- ![trophy](https://github-profile-trophy.vercel.app/?username=Sandarsh18&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
+![](https://github-profile-trophy.vercel.app/?username=Sandarsh18&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
