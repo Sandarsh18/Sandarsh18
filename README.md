@@ -51,7 +51,6 @@ Huge cricket fan 🏏 · I love building tools that help students learn 👨‍�
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sandarsh18&show_icons=true&theme=radical&hide_border=true"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandarsh18&theme=radical&hide_border=true&layout=compact"/>
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandarsh18&layout=compact&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandarsh18&layout=compact&theme=radical)
 
