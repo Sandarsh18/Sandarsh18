@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+I'm+Sandarsh+J+N;Flutter+Developer;AI+Enthusiast;Cloud+Explorer;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+I'm+Sandarsh+J+N;Flutter+Developer;AI+Enthusiast;Cloud+Explorer;Full+Stack+Developer" />
 </p>
 
 ---
@@ -51,6 +51,9 @@ Huge cricket fan 🏏 · I love building tools that help students learn 👨‍�
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sandarsh18&show_icons=true&theme=radical&hide_border=true"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandarsh18&theme=radical&hide_border=true&layout=compact"/>
 </p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandarsh18&layout=compact&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandarsh18&layout=compact&theme=radical)
 
 <p align="center">
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandarsh18&theme=radical&hide_border=true"/>
@@ -76,9 +79,8 @@ Huge cricket fan 🏏 · I love building tools that help students learn 👨‍�
 ---
 
 ### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sandarsh18&theme=radical&no-frame=true&column=6&margin-w=8&margin-h=8"/>
-</p>
+![trophy](https://github-profile-trophy.vercel.app/?username=Sandarsh18&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 ---
 
