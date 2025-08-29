@@ -14,7 +14,12 @@
 </p>
 
 ---
+### ✨ Fun Extras
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sandarsh18&color=brightgreen" alt="Profile views"/>
+</p>
 
+---
 ### ⚡ Fun Fact
 Huge cricket fan 🏏 · I love building tools that help students learn 👨‍🎓
 
@@ -52,7 +57,6 @@ Huge cricket fan 🏏 · I love building tools that help students learn 👨‍�
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandarsh18&theme=radical&hide_border=true&layout=compact"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandarsh18&layout=compact&theme=radical)
 
 <p align="center">
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandarsh18&theme=radical&hide_border=true"/>
@@ -78,7 +82,8 @@ Huge cricket fan 🏏 · I love building tools that help students learn 👨‍�
 ---
 
 ### 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Sandarsh18&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+ ![trophy](https://github-profile-trophy.vercel.app/?username=Sandarsh18&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 ---
@@ -91,12 +96,7 @@ Huge cricket fan 🏏 · I love building tools that help students learn 👨‍�
 
 ---
 
-### ✨ Fun Extras
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sandarsh18&color=brightgreen" alt="Profile views"/>
-</p>
 
----
 
 > *"Code is like humor. When you have to explain it, it’s bad."*
 
