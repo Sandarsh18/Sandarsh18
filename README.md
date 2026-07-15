@@ -1,98 +1,259 @@
-<h1 align="center">👋 Hi, I'm Sandarsh J N</h1>
+<h1 align="center">Hi 👋, I'm Sandarsh J N</h1>
+
+<h3 align="center">
+Software Engineer • Backend Developer • Cloud & AI Enthusiast
+</h3>
 
 <p align="center">
-  <a href="mailto:sandarshjn18@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sandarshjn18%40gmail.com-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/sandarsh-jn">
-    <img src="https://img.shields.io/badge/LinkedIn-Sandarsh%20J%20N-blue?style=for-the-badge&logo=linkedin" />
-  </a>
+Building scalable software, cloud-native applications, and AI-powered systems.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+I'm+Sandarsh+J+N;Flutter+Developer;AI+Enthusiast;Cloud+Explorer;Full+Stack+Developer" />
+<a href="mailto:sandarshjn18@gmail.com">
+<img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://linkedin.com/in/sandarsh-jn">
+<img src="https://img.shields.io/badge/LinkedIn-Sandarsh%20J%20N-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://github.com/Sandarsh18">
+<img src="https://img.shields.io/badge/GitHub-Sandarsh18-black?style=for-the-badge&logo=github">
+</a>
+
 </p>
 
 ---
-### ✨ Fun Extras
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sandarsh18&color=brightgreen" alt="Profile views"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C7B7&center=true&vCenter=true&width=750&lines=Software+Engineer;Backend+Developer;Cloud+%26+DevOps+Enthusiast;AI+%26+LLM+Developer;Java+%7C+Python+%7C+React+%7C+Kubernetes;Always+Learning+Something+New">
+
 </p>
 
 ---
-### ⚡ Fun Fact
-Huge cricket fan 🏏 · I love building tools that help students learn 👨‍🎓
+
+# 👨‍💻 About Me
+
+🎓 MCA Graduate from **R V College of Engineering, Bengaluru**
+
+💻 Passionate about designing scalable software systems and backend services.
+
+☁️ Interested in Cloud Computing, Distributed Systems, Kubernetes and DevOps.
+
+🤖 Building AI applications using LLMs, RAG pipelines and FastAPI.
+
+🚀 Love solving real-world engineering problems through software.
 
 ---
 
-### 💡 Motto
-> *"Building today, bettering tomorrow."*
+# 🚀 Current Focus
+
+- Backend Engineering
+- Java & Python
+- Distributed Systems
+- Kubernetes & Docker
+- Cloud Native Applications
+- REST APIs
+- AI & Retrieval-Augmented Generation (RAG)
+- Software Architecture
+- System Design
 
 ---
 
-### 🛠 Tech Stack
+# 🛠 Tech Stack
+
+### Programming Languages
+
 <p>
-<img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Cloud%20Computing-%2300C7B7.svg?style=for-the-badge&logo=icloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Computer%20Networks-%23323330.svg?style=for-the-badge&logo=networkx&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,sql"/>
+
+</p>
+
+### Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,html,css"/>
+
+</p>
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi"/>
+
+</p>
+
+### Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis"/>
+
+</p>
+
+### Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,git,github,linux"/>
+
+</p>
+
+### AI / Machine Learning
+
+<p>
+
+<img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/RAG-blue?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/FAISS-green?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/LangGraph-orange?style=for-the-badge">
+
 </p>
 
 ---
 
-### 📊 GitHub Stats & Activity
+# ⭐ Featured Projects
+
+## 🚀 KubePulse
+
+Real-Time Kubernetes Management Platform
+
+- Kubernetes Dashboard
+- Docker
+- Redis
+- MongoDB
+- React
+- Node.js
+
+🔗 https://github.com/Sandarsh18/KubePulse-Real-Time-Kubernetes-Management-Web-Application
+
+---
+
+## 🤖 VeritasAI
+
+Explainable Multi-Agent Fake News Detection System
+
+- FastAPI
+- LLMs
+- RAG
+- FAISS
+- Semantic Search
+
+🔗 https://github.com/Sandarsh18/VeritasAI
+
+---
+
+## ☁️ Cloud-Based Notes Sharing Platform
+
+Cloud-native document management platform
+
+- AWS
+- React
+- FastAPI
+- MySQL
+
+🔗 https://github.com/Sandarsh18/Cloud-Based-Notes-Sharing-Platform
+
+---
+
+# 📈 GitHub Analytics
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sandarsh18&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandarsh18&theme=radical&hide_border=true&layout=compact"/>
-</p>
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sandarsh18&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandarsh18&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-### 📈 Contribution Graph
+# 🔥 Contribution Streak
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandarsh18&theme=tokyo-night&area=true&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandarsh18&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-### 🐍 Snake Contribution Animation
+# 📊 Contribution Graph
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sandarsh18/Sandarsh18/output/snake-dark.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Sandarsh18/Sandarsh18/output/snake.svg" />
-  </picture>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandarsh18&theme=tokyo-night&hide_border=true&area=true"/>
+
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Sandarsh18&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+<p align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=Sandarsh18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6"/>
 
-### 🎯 Current Focus
-- Building **Flutter apps** with animations & localization  
-- Exploring **LLMs & AI-powered tools**  
-- Mastering **Cloud Computing & Dockerized deployments**  
-- Strengthening **Computer Networks & Backend architectures**  
+</p>
 
 ---
 
+# 🐍 Contribution Snake
 
+<p align="center">
 
-> *"Code is like humor. When you have to explain it, it’s bad."*
+<picture>
 
-<p align="center">Made with ❤️ & automation</p>
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/Sandarsh18/Sandarsh18/output/snake-dark.svg">
+
+<img src="https://raw.githubusercontent.com/Sandarsh18/Sandarsh18/output/snake.svg">
+
+</picture>
+
+</p>
+
+---
+
+# 📜 Certifications
+
+- Oracle Cloud Infrastructure 2025 DevOps Professional
+- Oracle Cloud Infrastructure 2025 Generative AI Professional
+- Oracle Cloud Infrastructure 2025 Multicloud Architect Professional
+
+---
+
+# 🌱 Currently Learning
+
+- System Design
+- Distributed Systems
+- Kubernetes Internals
+- Cloud Infrastructure
+- Large Language Models
+- Software Architecture
+- Backend Engineering
+
+---
+
+# ⚡ Fun Facts
+
+🏏 Cricket enthusiast
+
+☕ Linux user
+
+🚀 Always exploring new technologies
+
+📚 Strong believer in continuous learning
+
+---
+
+> **"First, solve the problem. Then, write the code." – John Johnson**
