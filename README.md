@@ -1,20 +1,21 @@
 <h1 align="center">Hi 👋, I'm Sandarsh J N</h1>
 
-<h3 align="center">
-Software Engineer • Backend Developer • Cloud & AI Enthusiast
-</h3>
-
 <p align="center">
-Building scalable software, cloud-native applications, and AI-powered systems.
+<b>Software Engineer • Backend Developer • Cloud & AI Enthusiast</b>
 </p>
 
 <p align="center">
+Building scalable software, cloud-native applications, distributed systems, and AI-powered solutions.
+</p>
+
+<p align="center">
+
 <a href="mailto:sandarshjn18@gmail.com">
 <img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail">
 </a>
 
-<a href="https://linkedin.com/in/sandarsh-jn">
-<img src="https://img.shields.io/badge/LinkedIn-Sandarsh%20J%20N-blue?style=for-the-badge&logo=linkedin">
+<a href="https://www.linkedin.com/in/sandarsh-jn">
+<img src="https://img.shields.io/badge/LinkedIn-Sandarsh_J_N-blue?style=for-the-badge&logo=linkedin">
 </a>
 
 <a href="https://github.com/Sandarsh18">
@@ -25,39 +26,74 @@ Building scalable software, cloud-native applications, and AI-powered systems.
 
 ---
 
-<p align="center">
+# 🚀 About Me
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C7B7&center=true&vCenter=true&width=750&lines=Software+Engineer;Backend+Developer;Cloud+%26+DevOps+Enthusiast;AI+%26+LLM+Developer;Java+%7C+Python+%7C+React+%7C+Kubernetes;Always+Learning+Something+New">
+🎓 MCA Graduate from **RV College of Engineering, Bengaluru**
 
-</p>
+💻 Passionate about building scalable backend systems and cloud-native applications.
 
----
+☁️ Interested in Cloud Computing, Distributed Systems, Kubernetes, DevOps, and AI.
 
-# 👨‍💻 About Me
+🤖 Building intelligent software using FastAPI, LLMs, Retrieval-Augmented Generation (RAG), and modern backend technologies.
 
-🎓 MCA Graduate from **R V College of Engineering, Bengaluru**
-
-💻 Passionate about designing scalable software systems and backend services.
-
-☁️ Interested in Cloud Computing, Distributed Systems, Kubernetes and DevOps.
-
-🤖 Building AI applications using LLMs, RAG pipelines and FastAPI.
-
-🚀 Love solving real-world engineering problems through software.
+🚀 Always looking for opportunities to solve challenging engineering problems.
 
 ---
 
-# 🚀 Current Focus
+# 🚀 Engineering Interests
 
-- Backend Engineering
-- Java & Python
+```text
+Backend Engineering          ████████████████████ 100%
+Cloud Computing              ██████████████████░ 90%
+Distributed Systems          █████████████████░░ 85%
+Artificial Intelligence      ████████████████░░░ 80%
+DevOps & Kubernetes          ████████████████░░░ 80%
+System Design                ██████████████░░░░░ 70%
+```
+
+---
+
+# 💼 What I'm Looking For
+
+✅ Software Engineering
+
+✅ Backend Engineering
+
+✅ Platform Engineering
+
+✅ Cloud Engineering
+
+✅ AI / LLM Engineering
+
+✅ Distributed Systems
+
+✅ Open Source Collaboration
+
+---
+
+# 📌 Engineering Principles
+
+- Write clean, maintainable code.
+- Build scalable and reliable software.
+- Automate repetitive tasks.
+- Design before implementation.
+- Keep learning continuously.
+- Prioritize simplicity and readability.
+- Solve problems with engineering fundamentals.
+
+---
+
+# 🧠 Computer Science
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Operating Systems
+- Database Management Systems
+- Computer Networks
 - Distributed Systems
-- Kubernetes & Docker
-- Cloud Native Applications
-- REST APIs
-- AI & Retrieval-Augmented Generation (RAG)
-- Software Architecture
-- System Design
+- Software Engineering
+- Software Development Life Cycle (SDLC)
+- REST API Design
 
 ---
 
@@ -66,106 +102,81 @@ Building scalable software, cloud-native applications, and AI-powered systems.
 ### Programming Languages
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=java,python,javascript,sql"/>
-
+<img src="https://skillicons.dev/icons?i=java,python,javascript" />
 </p>
 
 ### Frontend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=react,html,css"/>
-
+<img src="https://skillicons.dev/icons?i=react,html,css" />
 </p>
 
 ### Backend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi"/>
-
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi" />
 </p>
 
 ### Databases
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis"/>
-
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
 </p>
 
 ### Cloud & DevOps
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,git,github,linux"/>
-
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,git,github,linux" />
 </p>
 
 ### AI / Machine Learning
 
 <p>
 
-<img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/LLMs-black?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/RAG-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/RAG-blue?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/FAISS-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/FAISS-green?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge">
+<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/LangGraph-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/LangGraph-orange?style=for-the-badge"/>
 
 </p>
 
 ---
 
-# ⭐ Featured Projects
+# ☁️ Cloud Journey
 
-## 🚀 KubePulse
+✅ AWS
 
-Real-Time Kubernetes Management Platform
+✅ Microsoft Azure
 
-- Kubernetes Dashboard
-- Docker
-- Redis
-- MongoDB
-- React
-- Node.js
+✅ Docker
 
-🔗 https://github.com/Sandarsh18/KubePulse-Real-Time-Kubernetes-Management-Web-Application
+✅ Kubernetes
 
----
+✅ GitHub Actions
 
-## 🤖 VeritasAI
-
-Explainable Multi-Agent Fake News Detection System
-
-- FastAPI
-- LLMs
-- RAG
-- FAISS
-- Semantic Search
-
-🔗 https://github.com/Sandarsh18/VeritasAI
+✅ Linux
 
 ---
 
-## ☁️ Cloud-Based Notes Sharing Platform
+# 💻 Development Environment
 
-Cloud-native document management platform
-
-- AWS
-- React
-- FastAPI
-- MySQL
-
-🔗 https://github.com/Sandarsh18/Cloud-Based-Notes-Sharing-Platform
+```yaml
+OS          : Ubuntu Linux
+Editor      : VS Code
+Terminal    : Zsh
+Version Ctrl: Git
+Containers  : Docker
+Browser     : Chrome
+```
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -181,13 +192,13 @@ Cloud-native document management platform
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandarsh18&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Sandarsh18&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -201,7 +212,7 @@ Cloud-native document management platform
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sandarsh18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Sandarsh18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5"/>
 
 </p>
 
@@ -213,10 +224,9 @@ Cloud-native document management platform
 
 <picture>
 
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/Sandarsh18/Sandarsh18/output/snake-dark.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sandarsh18/Sandarsh18/output/snake-dark.svg"/>
 
-<img src="https://raw.githubusercontent.com/Sandarsh18/Sandarsh18/output/snake.svg">
+<img src="https://raw.githubusercontent.com/Sandarsh18/Sandarsh18/output/snake.svg"/>
 
 </picture>
 
@@ -224,23 +234,77 @@ srcset="https://raw.githubusercontent.com/Sandarsh18/Sandarsh18/output/snake-dar
 
 ---
 
-# 📜 Certifications
+# 📖 Currently Learning
 
-- Oracle Cloud Infrastructure 2025 DevOps Professional
-- Oracle Cloud Infrastructure 2025 Generative AI Professional
-- Oracle Cloud Infrastructure 2025 Multicloud Architect Professional
-
----
-
-# 🌱 Currently Learning
-
-- System Design
+- Advanced Backend Engineering
 - Distributed Systems
 - Kubernetes Internals
 - Cloud Infrastructure
-- Large Language Models
-- Software Architecture
-- Backend Engineering
+- System Design
+- High Performance APIs
+- AI Agents & RAG Systems
+- Scalable Software Architecture
+
+---
+
+# 📅 2026 Goals
+
+- [x] Complete MCA
+- [x] Build AI-powered Applications
+- [x] Learn Kubernetes
+- [x] Master FastAPI
+- [ ] Contribute to Open Source
+- [ ] Publish Technical Blogs
+- [ ] Build Production-Scale Distributed Systems
+- [ ] Secure a Software Engineering Role
+
+---
+
+# 💬 Ask Me About
+
+```text
+Java
+
+Python
+
+FastAPI
+
+REST APIs
+
+React
+
+Docker
+
+Kubernetes
+
+AWS
+
+Azure
+
+Git
+
+Linux
+
+Distributed Systems
+
+Software Engineering
+
+RAG
+
+LLMs
+
+Backend Development
+```
+
+---
+
+# 💡 Random Developer Quote
+
+<p align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</p>
 
 ---
 
@@ -248,12 +312,20 @@ srcset="https://raw.githubusercontent.com/Sandarsh18/Sandarsh18/output/snake-dar
 
 🏏 Cricket enthusiast
 
-☕ Linux user
+🐧 Ubuntu Linux user
 
-🚀 Always exploring new technologies
+☁️ Cloud and Backend Engineering enthusiast
 
-📚 Strong believer in continuous learning
+🤖 Love building AI-powered applications
+
+📚 Continuous learner
+
+💡 Believe great software comes from simple, maintainable designs
 
 ---
 
-> **"First, solve the problem. Then, write the code." – John Johnson**
+<p align="center">
+
+<b>Building today, bettering tomorrow.</b>
+
+</p>
